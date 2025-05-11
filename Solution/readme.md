@@ -1,8 +1,8 @@
-**Problem Overview
-**SmartManufacture Inc., a leader in industrial automation, has deployed an extensive sensor network across a client's manufacturing facility to monitor environmental conditions and energy usage. The client is concerned about rising energy costs and seeks a predictive system to forecast equipment energy consumption based on various environmental factors and sensor readings from different factory zones.
+**Problem Overview**
+SmartManufacture Inc., a leader in industrial automation, has deployed an extensive sensor network across a client's manufacturing facility to monitor environmental conditions and energy usage. The client is concerned about rising energy costs and seeks a predictive system to forecast equipment energy consumption based on various environmental factors and sensor readings from different factory zones.
 
-**Objective
-**Develop a robust machine learning model to accurately predict equipment energy consumption (equipment_energy_consumption) using sensor data. This predictive capability aims to assist facility managers in optimizing operations for enhanced energy efficiency and cost reduction.
+**Objective** 
+Develop a robust machine learning model to accurately predict equipment energy consumption (equipment_energy_consumption) using sensor data. This predictive capability aims to assist facility managers in optimizing operations for enhanced energy efficiency and cost reduction.
 
 **Dataset Description**
 The dataset comprises time-stamped sensor measurements from a manufacturing facility, including:
